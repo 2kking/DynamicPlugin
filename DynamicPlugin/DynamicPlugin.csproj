@@ -2,6 +2,15 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Title>DynamicPlugin</Title>
+        <Description>dynamic plugin for .net</Description>
+        <Copyright>shadowxs</Copyright>
+        <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/2kking/DynamicPlugin</RepositoryUrl>
+        <PackageTags>.net.plugin</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Shadow.DynamicPlugin</PackageId>
+        <Authors>shadowxs</Authors>
     </PropertyGroup>
 
     <ItemGroup>

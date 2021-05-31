@@ -1,4 +1,7 @@
 ### DynamicPlugin
+[![NuGet](https://img.shields.io/nuget/v/Shadow.DynamicPlugin.svg)](https://www.nuget.org/packages/Shadow.DynamicPlugin/)
+![](https://img.shields.io/nuget/dt/Shadow.DynamicPlugin.svg)
+
 dynamic control of dll plugin for .net
 
 #### Example
